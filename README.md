@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently studing at Unifacisa 
+- 🔭 I’m currently studing at <a href="https://www.unifacisa.edu.br/home">Unifacisa</a> 
 - 🌱 I’m currently learning JavaScript
 
 ##
@@ -14,7 +14,7 @@
 </div>
   
  <div style="display: inline_block"><br>
-   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Gil-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="Gil-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Gil-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
    <img align="center" alt="Gil-Python" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
