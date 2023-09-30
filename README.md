@@ -1,9 +1,11 @@
 
 <h2 align="center">Hi there, I'm Gil Rodrigues</h2>
 
+<div align="center">
+  <h4> 🔭 I’m currently studing at <a href="https://www.unifacisa.edu.br/home">Unifacisa</a></h4>
+  <h4> 🌱 I’m currently learning JavaScript</h4>
+</div>
 
-- 🔭 I’m currently studing at <a href="https://www.unifacisa.edu.br/home">Unifacisa</a> 
-- 🌱 I’m currently learning JavaScript
 
 
 
