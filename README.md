@@ -1,13 +1,13 @@
 
 <h2 align="center">Hi there, I'm Gil Rodrigues</h2>
 
-<div align="center">
+
 - 🔭 I’m currently studing at <a href="https://www.unifacisa.edu.br/home">Unifacisa</a> 
 - 🌱 I’m currently learning JavaScript
-</div>
 
 
-<div>
+
+<div align="center">
   <a href="https://github.com/GilRodrigues13">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GilRodrigues13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilRodrigues13&layout=compact&langs_count=7&theme=tokyonight"/>
